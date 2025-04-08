@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\bin\Debug\03-SearchForANumber.exe.config
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\bin\Debug\03-SearchForANumber.exe
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\bin\Debug\03-SearchForANumber.pdb
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\obj\Debug\03-SearchForANumber.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\obj\Debug\03-SearchForANumber.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\obj\Debug\03-SearchForANumber.exe
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\03-SearchForANumber\obj\Debug\03-SearchForANumber.pdb
