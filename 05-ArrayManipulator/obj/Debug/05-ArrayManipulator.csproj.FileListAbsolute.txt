@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\bin\Debug\05-ArrayManipulator.exe.config
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\bin\Debug\05-ArrayManipulator.exe
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\bin\Debug\05-ArrayManipulator.pdb
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\obj\Debug\05-ArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\obj\Debug\05-ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\obj\Debug\05-ArrayManipulator.exe
+C:\Users\Laptop\Desktop\C#\Lists-Exercise\05-ArrayManipulator\obj\Debug\05-ArrayManipulator.pdb
